@@ -6,7 +6,7 @@ Respected everyone, <br>
 <br>
 This is a use case on K Means clustering algorithm. We import the clara dataset and plot the data using matplotlib. The kmeans algorithm is then initialized with three clusters and the data points are plotted along with the three cluster points. We then implement the kmeans 
 algorithm from scratch and visualize each step. The number of cluster points is then changed and the corresponding plots are observed 
-using skikit learn library.
+using scikit learn library.
 <br>
 <br>
 Thanks and regards, <br>
